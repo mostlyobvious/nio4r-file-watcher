@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.0)
+    nio4r (0.4.6)
+    rb-kqueue (0.2.0)
+      ffi (>= 0.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nio4r
+  rb-kqueue
